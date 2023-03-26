@@ -1,0 +1,18 @@
+{
+  "Vulnerability": 
+  [
+    {
+      "name": "SQLi",
+      "details:": 
+        {
+          "full_name": "SQL injection",
+          "description": "An injection attack wherein an attacker can execute malicious SQL statements",
+          "references": [
+            "https://www.owasp.org/index.php/SQL_Injection", 
+            "https://cwe.mitre.org/data/definitions/89.html"
+            ],
+          "type": "web"
+        }
+    }
+  ]
+}
